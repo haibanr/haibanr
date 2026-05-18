@@ -49,26 +49,6 @@ Here are some of the technical projects I’ve engineered to solve real-world an
 
 ---
 
-## 👥 Organizational Leadership
-
-Aside from coding, I actively contribute to ecosystem growth and project execution in major campus organizations:
-
-* **Himpunan Mahasiswa Teknik Computer-Informatika ITS** — *Staff of Entrepreneurship Development Department* (Mar 2026 – Present)
-  * Co-managed business initiatives, developed risk mitigation frameworks with 90% planning accuracy, and achieved 100% of target KPIs within a strict 3-month timeline.
-* **Schematics ITS 2026** — *Expert Staff of Public Relations* (Apr 2026 – Present)
-  * Structured outreach frameworks for national roadshows engaging 1,000+ participants and secured strategic national media partnerships.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haibanr&show_icons=true&theme=tokyonight" alt="Fathan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haibanr&layout=compact&theme=tokyonight" alt="Top Languages Used" height="150" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 I'm always open to talking about Software Engineering, tech stack collaborations, or internship opportunities!
