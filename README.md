@@ -37,7 +37,7 @@ Here are some of the technical projects I’ve engineered to solve real-world an
   * Integrated OpenAI API to build an intelligent curation assistant.
   * Translated complex buying flows into a seamless, user-centric checkout interface.
   * Designed a robust back-end architecture to handle efficient real-time data lookups.
-* **Links:** [💻 Repository](https://github.com/haibanr/jastip-by-raf) *(Sesuaikan link ini)*
+* **Links:** [💻 Repository](https://github.com/haibanr/jastip-by-raf)
 
 ### 💻 FrontEndForge — Interactive Web Coding Workspace
 * **Description:** A zero-setup, interactive web coding workspace built to eliminate environment configuration hurdles for frontend learners.
@@ -45,7 +45,7 @@ Here are some of the technical projects I’ve engineered to solve real-world an
 * **Key Achievements:**
   * Embedded advanced Monaco Editor to allow instant, hands-on project building.
   * Engineered an isolated iframe sandbox utilizing the HTML5 `postMessage` API to map rendered UI components directly to exact source lines for effortless debugging.
-* **Links:** [💻 Repository](https://github.com/haibanr/frontendforge) *(Sesuaikan link ini)*
+* **Links:** [💻 Repository](https://github.com/haibanr/frontendforge)
 
 ---
 
