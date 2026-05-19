@@ -11,7 +11,7 @@ I am a Bachelor of Computer Science student at **Institut Teknologi Sepuluh Nope
 
 ### 🚀 Programming Languages & Frameworks
 - **Languages:** C/C++, Python, JavaScript, HTML5, CSS3, SQL
-- **Libraries & Frameworks:** React.js, Vite
+- **Libraries & Frameworks:** React.js, Vite, Django
 - **Databases:** PostgreSQL, MySQL, SQLite
 
 ### 🧰 Tools & Platforms
